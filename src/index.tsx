@@ -4,6 +4,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Error from './resources/views/Error'
 
 ReactDOM.render(
     <BrowserRouter>
